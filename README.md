@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=CokeBeliever&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&bg_color=45,3a6186,89253e" />
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CokeBeliever&show_icons=true&layout=compact&title_color=fff&text_color=fff&bg_color=45,3a6186,89253e" />
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=CokeBeliever&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&bg_color=45,3a6186,89253e" />
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CokeBeliever&show_icons=true&layout=compact&title_color=fff&text_color=fff&bg_color=45,3a6186,89253e" />
